@@ -1,6 +1,6 @@
 - 👋 hello geeks, I’m Shrayansh Jain
 - 👀 I’m interested in Software Development,business,event management
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning java
 - 📫 How to reach me shrayanshjain103@gmail.com
 
 <!---
