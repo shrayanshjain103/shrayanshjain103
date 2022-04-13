@@ -1,9 +1,2 @@
-- 👋 hello geeks, I’m Shrayansh Jain
-- 👀 I’m interested in Software Development,business,event management
-- 🌱 I’m currently learning java
-- 📫 How to reach me shrayanshjain103@gmail.com
-
-<!---
-shrayanshjain103/shrayanshjain103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey there, 
+I am a pre-final year student of B.Tech (Computer - Science and Engineering). I'm a tech Enthusiastic, a Coder and a teacher. I have a good knowledge of Data Structures and algorithms. Beside it I've good knowledge of HTML, CSS, JavaScript, SQL and Computer Science's core subjects.
