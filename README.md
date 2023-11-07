@@ -1,4 +1,7 @@
-- Hey there, I am a 
+- Hey there, I am a
+
+
+
 🎓 B.Tech in Computer Science
 👨‍💻 Full Stack Developer
 💼 PHP | Java | HTML5 | CSS | JS | MySQL | jQuery | MVC | AJAX
