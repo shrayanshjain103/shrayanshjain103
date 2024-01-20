@@ -1,4 +1,4 @@
-👨‍💻 Experienced Full Stack Developer | B.Tech in Computer Science 🎓
+👨‍💻 Experienced *Full Stack Developer* | B.Tech in Computer Science 🎓
 
 Welcome to my GitHub profile! I am a recent B.Tech graduate with a major in Computer Science, specializing in Full Stack Development. 🚀
 
