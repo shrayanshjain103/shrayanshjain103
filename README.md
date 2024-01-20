@@ -5,12 +5,18 @@ Welcome to my GitHub profile! I am a recent B.Tech graduate with a major in Comp
 🔧 Technologies & Skills:
 
 Backend: Node.js, Express.js, MongoDB
+
 Server-Side Scripting: PHP
+
 Programming Languages: Java, JavaScript (ES6+)
-Web Technologies: HTML5, CSS, jQuery
-Database: MySQL
+
+Web Technologies: HTML5, CSS, jQuery,  AJAX
+
+Database: MySQL, MongoDB
+
 Architectural Pattern: Model-View-Controller (MVC)
-Web Development: AJAX
+
+
 💼 Professional Highlights:
 
 Developed robust and scalable applications using Node.js and Express.js for efficient server-side operations.
